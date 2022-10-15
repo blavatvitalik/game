@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <!DOCTYPE html>
+<html lang="en-US">
+  <head>
+  <meta charset="utf-8" />
+    <title>  Game</title>
+  </head>
+  <body>
+  <h1 style="color:red;"> <em>Мої 2 найулюбленіші ігри.</em></h1>
+  <h2 style="color:blue;"><em>Категорії.</em></h2 >
+  <ol>
+   <li>Назва</li> 
+   <li>Компанія</li>
+   <li>Рік випуску</li>
+    </ol>
+  <table border="1">
+<tr>
+<th></th>
+<th>Топ1</th>
+<th>Топ2</th>
+</tr>
+<tr>
+<th>Назва</th>
+<td>Mafia II</td>
+<td>Counter-Strike: Global Offensive</td>
+</tr>
+<tr>
+<th>Компанія</th>
+<td>2K Czech</td>
+<td>Valve</td>
+</tr>
+<tr>
+<th>Рік випуску</th>
+<td>2010</td>
+<td>2011</td>
+</tr>
+</table>
+img src="mam.jrd" alt=https://ru.wikipedia.org/wiki/Mafia_II img/><h3><em>Список найкращих ігор з YouTube</em></h3>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/UiI_17t8EWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</html>
